@@ -14,7 +14,7 @@ slightly novel algorithm. The focus on this project was using the standard C++
 library, and focusing on the MVC design, at a simple level.  
 It is recommended you read the source code to see exactly what the code is
 doing.  
-Please visit my portfolio at http://people.scs.carleton.ca/~mchristo/
+Please visit my portfolio at http://murraychristopherson.com
 
 If you discover any bugs or unclear/inconsistent documentation, please contact me
 at murraychristopherson@gmail.com with a description of what happened, and I
